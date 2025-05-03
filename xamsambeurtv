@@ -1,0 +1,8 @@
+�PNG
+
+
+Paiement: Orange Money, Wave, Kpay, Carte
+WhatsApp: 761848404
+console.log('Bienvenue sur XamsaMbeur');
+body { font-family: Arial; background-color: #000; color: gold; }
+<html><head><title>XamsaMbeur</title></head><body><h1>Bienvenue sur XamsaMbeur</h1></body></html>
